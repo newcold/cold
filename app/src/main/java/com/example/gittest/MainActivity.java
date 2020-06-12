@@ -13,4 +13,8 @@ public class MainActivity extends AppCompatActivity {
 //        森赛弗萨福塞菲斯
 //
     }
+
+    public void test(){
+        System.out.println("awawdw");
+    }
 }
