@@ -17,6 +17,10 @@ public class MainActivity extends AppCompatActivity {
     public void test(){
         System.out.println("awawdw");
         System.out.println("awdawdawawwa");
+
+    }
+    public void diaonima(){
+        System.out.println("尧鸡脖");
     }
 
     public void hhhh(){
