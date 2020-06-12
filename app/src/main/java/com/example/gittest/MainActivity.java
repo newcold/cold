@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void test(){
         System.out.println("awawdw");
+        System.out.println("awdawdawawwa");
     }
 }
